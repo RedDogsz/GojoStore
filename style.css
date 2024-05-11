@@ -54,7 +54,7 @@ nav .login button.signup{
 
 header{
     padding: 0 80px;
-    height: calc(100vh - 80px);
+    height: calc( - 80px);
     display: flex;
     align-items: center;
     justify-content: space-between;
